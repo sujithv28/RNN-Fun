@@ -1,0 +1,16 @@
+Scipy not supported!
+Vectorizing text...
+Text total length: 847535
+Distinct chars: 188
+Total sequences: 282504
+---------------------------------
+Run id: input
+Log directory: /tmp/tflearn_logs/
+[?25l---------------------------------
+Training samples: 254253
+Validation samples: 28251
+--
+Training Step: 1 
+[2K| Adam | epoch: 000 | loss: 0.00000 -- iter: 000128/254253
+[A[A[B[B[B--
+[?12;25h

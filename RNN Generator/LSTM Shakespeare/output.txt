@@ -1,0 +1,57 @@
+Scipy not supported!
+Vectorizing text...
+Text total length: 4573338
+Distinct chars: 67
+Total sequences: 1524438
+---------------------------------
+Run id: shakespeare
+Log directory: /tmp/tflearn_logs/
+[?25l---------------------------------
+Training samples: 1371994
+Validation samples: 152444
+--
+Training Step: 1 
+[2K| Adam | epoch: 000 | loss: 0.00000 -- iter: 0000128/1371994
+[A[ATraining Step: 2  | total loss: [1m[32m3.78428[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.78428 -- iter: 0000256/1371994
+[A[ATraining Step: 3  | total loss: [1m[32m4.12405[0m[0m
+[2K| Adam | epoch: 000 | loss: 4.12405 -- iter: 0000384/1371994
+[A[ATraining Step: 4  | total loss: [1m[32m4.16256[0m[0m
+[2K| Adam | epoch: 000 | loss: 4.16256 -- iter: 0000512/1371994
+[A[ATraining Step: 5  | total loss: [1m[32m4.03060[0m[0m
+[2K| Adam | epoch: 000 | loss: 4.03060 -- iter: 0000640/1371994
+[A[ATraining Step: 6  | total loss: [1m[32m3.61961[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.61961 -- iter: 0000768/1371994
+[A[ATraining Step: 7  | total loss: [1m[32m3.59914[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.59914 -- iter: 0000896/1371994
+[A[ATraining Step: 8  | total loss: [1m[32m3.48859[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.48859 -- iter: 0001024/1371994
+[A[ATraining Step: 9  | total loss: [1m[32m3.39746[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.39746 -- iter: 0001152/1371994
+[A[ATraining Step: 10  | total loss: [1m[32m3.38709[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.38709 -- iter: 0001280/1371994
+[A[ATraining Step: 11  | total loss: [1m[32m3.38428[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.38428 -- iter: 0001408/1371994
+[A[ATraining Step: 12  | total loss: [1m[32m3.39686[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.39686 -- iter: 0001536/1371994
+[A[ATraining Step: 13  | total loss: [1m[32m3.36083[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.36083 -- iter: 0001664/1371994
+[A[ATraining Step: 14  | total loss: [1m[32m3.40798[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.40798 -- iter: 0001792/1371994
+[A[ATraining Step: 15  | total loss: [1m[32m3.47458[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.47458 -- iter: 0001920/1371994
+[A[ATraining Step: 16  | total loss: [1m[32m3.50901[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.50901 -- iter: 0002048/1371994
+[A[ATraining Step: 17  | total loss: [1m[32m3.47463[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.47463 -- iter: 0002176/1371994
+[A[ATraining Step: 18  | total loss: [1m[32m3.42311[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.42311 -- iter: 0002304/1371994
+[A[ATraining Step: 19  | total loss: [1m[32m3.39868[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.39868 -- iter: 0002432/1371994
+[A[ATraining Step: 20  | total loss: [1m[32m3.40021[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.40021 -- iter: 0002560/1371994
+[A[ATraining Step: 21  | total loss: [1m[32m3.38532[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.38532 -- iter: 0002688/1371994
+[A[ATraining Step: 22  | total loss: [1m[32m3.44614[0m[0m
+[2K| Adam | epoch: 000 | loss: 3.44614 -- iter: 0002816/1371994
+[A[A
